@@ -1,0 +1,7 @@
+[] Agregar mis datos como persona (numero de documento, nombre, apellido, edad).
+[] Agregar mi direccion, donde el tipo sea "Home".
+[] Armar un listado con todas las personas, sin sus direcciones.
+[] Idem anterior, pero ordenados en forma ascendente por sus nombres y en forma descendente por su apellido.
+[] Buscar la persona que sea mas vieja.
+[] Buscar el promedio de edad.
+[] Armar un listado con todas las personas, con sus respectivas direcciones.
